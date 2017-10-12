@@ -1,0 +1,6 @@
+c:\users\tanvi\documents\visual studio 2017\Projects\MovieList\Lab10\bin\Debug\Lab10.exe.config
+c:\users\tanvi\documents\visual studio 2017\Projects\MovieList\Lab10\bin\Debug\Lab10.exe
+c:\users\tanvi\documents\visual studio 2017\Projects\MovieList\Lab10\bin\Debug\Lab10.pdb
+c:\users\tanvi\documents\visual studio 2017\Projects\MovieList\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+c:\users\tanvi\documents\visual studio 2017\Projects\MovieList\Lab10\obj\Debug\Lab10.exe
+c:\users\tanvi\documents\visual studio 2017\Projects\MovieList\Lab10\obj\Debug\Lab10.pdb
